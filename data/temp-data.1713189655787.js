@@ -1,1 +1,0 @@
-window.tempDataJSON = {"books":true,"series":true,"collections":false,"podcasts":true,"wishlist":false,"extras":{"domain-extension":".com","pages":{},"subPageStates":[{"key":"categories","enabled":true},{"key":"authors","enabled":true},{"key":"publishers","enabled":true},{"key":"series","enabled":true},{"key":"narrators","enabled":true}],"cacheID":1713189655787}};
