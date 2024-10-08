@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>A new version of this classic starring Stephen Fry.&nbsp;</p> <p>A chance encounter leads to flower girl Eliza Dootlittle undergoing a life changing transformation.&nbsp;</p>"; 
