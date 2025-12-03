@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Sherlock Holmes and Dr. Watson investigate the legend of a supernatural hound, a beast that may be stalking a young heir on the fog-shrouded moorland that makes up his estate. The best of the Holmes novels!</p>"; 
