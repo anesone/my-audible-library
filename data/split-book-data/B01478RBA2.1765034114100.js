@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>The Reporter</i> takes place between Week Three and Week Six of the 2684 GFL season, the season that encompasses <i>The All-Pro</i>. </p> <p>The story involves Yolanda Davenport's search for the truth about Ju Tweedy's involvement with the murder of Grace McDermot, the incident that drove Ju to join the Ionath Krakens. </p>"; 

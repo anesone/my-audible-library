@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p><i>The Rider</i> is a GFL novella co-written by Scott Sigler and Paul E Cooley. It is the story of The Roughland Ridgebacks captain, Poughkeepsie Pete, and his favorite mount, Old Bess the Tyrannosaurus Rex. They play dinolition, and they are the best team in the game. </p>"; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "A bold-spirited dog named Buck is stripped from his comfortable life on a California estate and thrust into the rugged terrain of the Klondike. There he is made a sled dog and battles to become his team's leader and the devoted servant of John Thornton, a man who shows him kindness amid the savage lawlessness of man and beast."; 

@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>In the final installment of an exhilarating sci-fi adventure trilogy in the vein of <i>The Hunger Games</i>, <i>Divergent</i>, and <i>Red Rising</i>, Scott Sigler's unforgettable heroine, Em Savage, must come to grips once and for all with the perilous mysteries of her own existence. </p>"; 
