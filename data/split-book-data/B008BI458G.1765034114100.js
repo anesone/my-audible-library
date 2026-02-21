@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Four classic science-fiction stories: 20 hours of great listening. This collection of classic Wells tales includes <i>The Invisible Man, The Time Machine, The War of The Worlds,</i> and <i>The Island of Doctor Moreau.</i></p>"; 

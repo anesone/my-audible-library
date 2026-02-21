@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>The science fiction classic that coined the term \"time machine\" and is generally credited with the popularization of the concept of time travel. A must listen for any fan of science fiction!</p>"; 

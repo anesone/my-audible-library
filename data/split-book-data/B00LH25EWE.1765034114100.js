@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Get ready for lots of fun and adventure when the swashbuckling thief Flynn Rider meets Rapunzel - the girl with 70 feet of magical hair. Together they go on wild, hilarious, and heartfelt adventures when Rapunzel leaves her isolated tower for the first time. </p> <p></p>"; 

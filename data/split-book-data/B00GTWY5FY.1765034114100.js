@@ -1,1 +1,0 @@
-window.bookSummaryJSON = "<p>Follow the further adventures and misadventures of Hiccup Horrendous Haddock III as his Viking training continues and his father leads a stranger and the Hairy Hooligans to the Isle of Skullions in search of a pirate's treasure. </p>"; 

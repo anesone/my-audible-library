@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "<p>Ridley Scott returns to the universe he created with <i>Alien: Covenant</i>, a new chapter in his groundbreaking Alien adventure. The crew of the colony ship <i>Covenant</i>, bound for a remote planet on the far side of the galaxy, discovers what they think is an uncharted paradise. But it is actually a dark, dangerous world. </p>"; 
